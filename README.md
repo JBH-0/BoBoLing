@@ -1,1 +1,1 @@
-# BoBoLing
+# DjangoBlog
